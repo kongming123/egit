@@ -8,6 +8,9 @@ public class Hello {
 		System.out.println("Hello woman!");
 		System.out.println("Hello neon!");
 		System.out.println("Hello kepler!");
+		System.out.println("hello java!");
+		System.out.println("hello java!");
+		System.out.println("hello java!");
 	}
 
 }
